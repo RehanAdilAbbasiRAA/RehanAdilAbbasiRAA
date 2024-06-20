@@ -52,3 +52,36 @@ Model Evaluation: Evaluated model performance using precision, recall, F1-score,
 Achievements: Developed a reliable machine learning model for classifying Denial of Service (DoS) attacks in Wireless Sensor Networks (WSN). Achieved high accuracy and performance with Random Forest and Stacking ensemble
 methods.
 Demonstrated strong analytical and  problem-solving skills through model optimization and evaluation.
+
+Key Results:
+Naive Bayes: Accuracy - 56.94%, ROC
+AUC - 0.80
+Decision Tree: Accuracy - 99.42%, ROC
+AUC - 0.996
+SVM: Accuracy - 36.82%
+KNN: Accuracy - 87.01%, ROC AUC -
+0.975
+Random Forest: Accuracy - 99.61%,
+ROC AUC - 0.999
+Stacking: Accuracy - 99.77%, ROC AUC
+- 0.999
+
+EDUCATION
+Bachelors in computer Science, IQRA
+University Islamabad(A) October 2020 –
+Present
+I have achieved 6 scholarships for
+academic excellence • And a track
+record of achieving full marks in all
+computer-related subjects. •
+1st semester GPA 3.66
+2nd semester GPA 3.83
+3rd semester GPA 3.88
+4th semester GPA 3.79
+5th semester GPA 3.83
+6th semester GPA 3.75
+CGPA 3.80
+HSSC, ICB G-6/3 Islamabad (B) June
+2018 - July 2020
+SSC, ICB G-6/3 Islamabad (B) May 2016 -
+May 2018
